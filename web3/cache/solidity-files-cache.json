@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/arpan/Downloads/project_crowdfunding-master 2/web3/contracts/NftMarket.sol": {
+      "lastModificationDate": 1677347794546,
+      "contentHash": "217b6dcca9c4ebdb40b8824efabe142d",
+      "sourceName": "contracts/NftMarket.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "NftMarket"
+      ]
+    }
+  }
+}
